@@ -42,4 +42,4 @@ There's no difference in preferred start time between male and female. They like
  + Subscribers vs. ages
 
 ## 4. Link to Tableau story
-[Click here]([https://public.tableau.com/views/NYCCitibikeCustomersAnalysis2021/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/NYCCitibikeCustomersAnalysis2021/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
+[link to dashboard](https://public.tableau.com/views/NYCCitibikeCustomersAnalysis2021/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
